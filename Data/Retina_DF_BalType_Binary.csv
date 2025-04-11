@@ -1,1001 +1,1201 @@
 image,level,binary_type,binary_level
-41307_right,0,NO DR,0
-35675_left,0,NO DR,0
-4270_left,0,NO DR,0
-10149_left,0,NO DR,0
-25871_right,2,DR,1
-12646_right,0,NO DR,0
-6144_left,0,NO DR,0
-29421_left,0,NO DR,0
-15136_left,0,NO DR,0
-39287_right,1,DR,1
-25852_left,0,NO DR,0
-33786_right,2,DR,1
-299_left,0,NO DR,0
-17811_left,0,NO DR,0
-11796_left,0,NO DR,0
-24535_left,0,NO DR,0
-7363_right,2,DR,1
-7144_left,0,NO DR,0
-24230_right,0,NO DR,0
-6190_right,2,DR,1
-16238_right,0,NO DR,0
-5365_left,1,DR,1
-36577_right,2,DR,1
-42991_left,0,NO DR,0
-15954_left,3,DR,1
-13376_left,1,DR,1
+13984_left,0,NO DR,0
+9589_left,0,NO DR,0
 7754_right,1,DR,1
-15208_left,0,NO DR,0
-20764_left,0,NO DR,0
-7297_right,0,NO DR,0
-10570_right,4,DR,1
-5930_left,1,DR,1
-36533_left,0,NO DR,0
-8111_left,2,DR,1
-29516_left,2,DR,1
-15763_right,2,DR,1
-25879_right,0,NO DR,0
-6378_left,0,NO DR,0
-3011_left,0,NO DR,0
-42284_left,2,DR,1
-42210_left,2,DR,1
-31436_right,2,DR,1
-192_left,2,DR,1
-18226_right,0,NO DR,0
-3301_left,2,DR,1
-8358_right,2,DR,1
-40186_right,0,NO DR,0
-18643_left,0,NO DR,0
 36808_left,1,DR,1
-7403_left,0,NO DR,0
-29423_right,0,NO DR,0
-18845_left,0,NO DR,0
-25697_left,2,DR,1
-16414_right,0,NO DR,0
-31311_left,2,DR,1
-22930_left,3,DR,1
-23548_right,0,NO DR,0
-4130_right,4,DR,1
-9947_left,2,DR,1
-7786_right,0,NO DR,0
-466_right,2,DR,1
-43694_left,1,DR,1
-22702_left,0,NO DR,0
-42873_left,1,DR,1
-26547_right,0,NO DR,0
-18823_left,0,NO DR,0
-7265_left,0,NO DR,0
-31777_left,0,NO DR,0
-32226_right,2,DR,1
-20648_right,0,NO DR,0
-6088_right,2,DR,1
-5118_right,1,DR,1
-27518_left,0,NO DR,0
-20267_right,0,NO DR,0
-37020_right,1,DR,1
-13667_right,2,DR,1
-15937_right,0,NO DR,0
-8006_left,1,DR,1
-5750_right,0,NO DR,0
-25269_right,2,DR,1
-26348_left,0,NO DR,0
-37032_right,3,DR,1
-41566_right,3,DR,1
-23787_right,3,DR,1
-12372_left,1,DR,1
-17762_right,0,NO DR,0
-34340_left,0,NO DR,0
-14216_left,0,NO DR,0
-14064_right,0,NO DR,0
-20513_right,1,DR,1
-26806_right,2,DR,1
-12652_left,4,DR,1
-2744_right,0,NO DR,0
-33323_right,2,DR,1
-9587_right,0,NO DR,0
-29559_right,1,DR,1
-43664_right,0,NO DR,0
-26591_right,1,DR,1
-20500_left,2,DR,1
-8554_left,0,NO DR,0
-21593_left,0,NO DR,0
-29919_left,2,DR,1
-37758_left,0,NO DR,0
-44223_left,2,DR,1
-9971_left,0,NO DR,0
-27438_left,0,NO DR,0
-29043_left,0,NO DR,0
-644_left,0,NO DR,0
-16748_left,2,DR,1
-8353_left,0,NO DR,0
-43080_right,0,NO DR,0
-42908_right,0,NO DR,0
-37134_right,0,NO DR,0
-42011_left,0,NO DR,0
-41415_left,2,DR,1
-6088_left,2,DR,1
-9509_left,1,DR,1
-438_right,0,NO DR,0
-12105_left,0,NO DR,0
-2470_right,2,DR,1
-37677_right,0,NO DR,0
-31724_right,1,DR,1
-4917_left,0,NO DR,0
-20742_right,2,DR,1
-3485_left,2,DR,1
-40787_left,0,NO DR,0
-26930_left,0,NO DR,0
-40757_left,1,DR,1
-37459_right,0,NO DR,0
-2675_right,0,NO DR,0
-22549_right,0,NO DR,0
-7558_right,0,NO DR,0
-44145_left,1,DR,1
-31337_left,0,NO DR,0
-12026_right,0,NO DR,0
-8678_right,3,DR,1
-41688_right,1,DR,1
-378_left,2,DR,1
-11230_left,2,DR,1
-30930_right,3,DR,1
-40790_left,1,DR,1
-9930_left,2,DR,1
-36771_left,0,NO DR,0
-25872_right,3,DR,1
-28272_left,0,NO DR,0
-40143_right,0,NO DR,0
-26540_left,0,NO DR,0
-3648_right,2,DR,1
-43796_right,0,NO DR,0
-23244_right,3,DR,1
-41075_left,0,NO DR,0
-1552_left,2,DR,1
-4127_right,0,NO DR,0
-869_left,1,DR,1
-6739_left,0,NO DR,0
-37354_left,2,DR,1
-13180_right,2,DR,1
-34668_right,0,NO DR,0
-16350_right,1,DR,1
-34268_left,0,NO DR,0
-8023_left,0,NO DR,0
-14153_left,0,NO DR,0
-40605_left,0,NO DR,0
-36141_left,0,NO DR,0
-22947_right,0,NO DR,0
-6956_right,0,NO DR,0
-32798_right,1,DR,1
-26612_right,0,NO DR,0
-32237_left,1,DR,1
-17415_left,2,DR,1
-10954_right,4,DR,1
-17644_left,1,DR,1
-33711_left,1,DR,1
-8517_right,0,NO DR,0
-27010_right,2,DR,1
-39505_right,4,DR,1
-14110_left,1,DR,1
-419_left,2,DR,1
-22003_left,0,NO DR,0
-29712_left,0,NO DR,0
-38965_right,2,DR,1
-10864_left,0,NO DR,0
-11035_left,3,DR,1
-876_right,0,NO DR,0
-3896_left,0,NO DR,0
-1675_right,2,DR,1
-32008_right,1,DR,1
-13158_left,1,DR,1
-2041_right,0,NO DR,0
-3321_left,0,NO DR,0
-36029_right,0,NO DR,0
-37633_right,0,NO DR,0
-356_left,0,NO DR,0
-43077_right,2,DR,1
-24668_right,1,DR,1
-30226_left,3,DR,1
-23058_right,2,DR,1
-6276_right,2,DR,1
-29793_left,0,NO DR,0
-34152_left,4,DR,1
-26481_left,2,DR,1
-2839_left,0,NO DR,0
-35650_right,0,NO DR,0
-23982_right,0,NO DR,0
-43748_left,0,NO DR,0
-39972_left,0,NO DR,0
-9298_left,4,DR,1
-38245_left,0,NO DR,0
-23553_left,1,DR,1
-15134_right,0,NO DR,0
-27677_right,1,DR,1
-5497_right,1,DR,1
-27635_left,0,NO DR,0
-12527_right,0,NO DR,0
-37431_right,0,NO DR,0
-7279_right,2,DR,1
-37382_left,0,NO DR,0
-12445_left,2,DR,1
-41194_left,0,NO DR,0
-10368_left,0,NO DR,0
-23403_right,2,DR,1
-5592_right,0,NO DR,0
-31581_right,0,NO DR,0
-21456_right,1,DR,1
-2363_left,0,NO DR,0
-44069_right,2,DR,1
-18374_left,0,NO DR,0
-24550_right,2,DR,1
-10464_left,0,NO DR,0
-18716_left,0,NO DR,0
-40316_left,1,DR,1
-38298_left,0,NO DR,0
-1266_right,1,DR,1
-42363_left,0,NO DR,0
-2131_left,2,DR,1
-14530_left,2,DR,1
-1999_left,1,DR,1
-15610_left,0,NO DR,0
-10325_left,2,DR,1
-43932_left,2,DR,1
-4688_right,4,DR,1
-43450_left,1,DR,1
-26309_right,0,NO DR,0
-32905_left,0,NO DR,0
-15151_left,1,DR,1
-2668_right,2,DR,1
-32890_right,1,DR,1
-9809_right,2,DR,1
-25751_right,2,DR,1
-5007_right,2,DR,1
-31565_right,2,DR,1
-38213_left,0,NO DR,0
-37248_right,0,NO DR,0
-34611_left,0,NO DR,0
-9167_right,2,DR,1
+6599_left,2,DR,1
+6745_right,0,NO DR,0
 35371_right,2,DR,1
-17639_right,0,NO DR,0
-15296_right,0,NO DR,0
-38404_left,0,NO DR,0
-19878_right,1,DR,1
-1427_right,0,NO DR,0
-8681_right,4,DR,1
-9608_right,4,DR,1
-5010_left,1,DR,1
-421_left,1,DR,1
-33905_right,0,NO DR,0
-29670_left,0,NO DR,0
+32445_right,0,NO DR,0
+25871_right,2,DR,1
+12182_right,0,NO DR,0
+38994_right,0,NO DR,0
+40790_left,1,DR,1
+21456_right,1,DR,1
+3321_left,0,NO DR,0
+4911_left,2,DR,1
+1501_right,2,DR,1
+25009_right,1,DR,1
+43396_right,0,NO DR,0
+21270_left,0,NO DR,0
+1743_right,2,DR,1
 36077_right,2,DR,1
-16388_right,0,NO DR,0
-14748_left,2,DR,1
-21852_left,2,DR,1
-240_right,1,DR,1
-21623_right,0,NO DR,0
-43805_left,2,DR,1
-17962_left,0,NO DR,0
-27906_left,2,DR,1
-14202_left,2,DR,1
-23289_left,0,NO DR,0
-264_left,2,DR,1
-7391_left,0,NO DR,0
-4194_right,0,NO DR,0
-23300_right,0,NO DR,0
-7805_left,2,DR,1
-4811_left,2,DR,1
-20009_right,2,DR,1
-4998_right,0,NO DR,0
-27895_right,2,DR,1
-37586_left,2,DR,1
-19272_right,2,DR,1
-8951_right,0,NO DR,0
-18699_left,0,NO DR,0
-10790_left,0,NO DR,0
-12616_right,0,NO DR,0
-417_right,1,DR,1
-26944_right,2,DR,1
-1541_right,2,DR,1
-5212_right,0,NO DR,0
-28316_right,2,DR,1
-35461_left,4,DR,1
-23395_left,2,DR,1
-18008_left,0,NO DR,0
-13773_right,2,DR,1
-35708_right,2,DR,1
-27168_left,2,DR,1
-19573_left,0,NO DR,0
-38637_right,0,NO DR,0
-29892_right,2,DR,1
+33978_right,0,NO DR,0
 10674_left,0,NO DR,0
-10257_right,0,NO DR,0
-30986_left,0,NO DR,0
+40316_left,1,DR,1
+2668_right,2,DR,1
+8358_right,2,DR,1
+31501_left,0,NO DR,0
+40630_right,2,DR,1
+44191_left,1,DR,1
+38447_right,2,DR,1
+10510_left,3,DR,1
+35398_left,0,NO DR,0
+22738_left,0,NO DR,0
+3232_left,0,NO DR,0
+26944_right,2,DR,1
+8116_right,2,DR,1
+39652_right,2,DR,1
+32226_right,2,DR,1
+23244_right,3,DR,1
+21578_right,0,NO DR,0
+4160_right,0,NO DR,0
+6088_right,2,DR,1
+30133_left,0,NO DR,0
+32008_right,1,DR,1
+22543_right,0,NO DR,0
+16025_left,3,DR,1
+30042_left,2,DR,1
+31311_left,2,DR,1
+26248_left,2,DR,1
+8116_left,2,DR,1
+34536_left,0,NO DR,0
+39867_right,0,NO DR,0
+43965_right,2,DR,1
+14045_right,2,DR,1
+12937_right,0,NO DR,0
+23058_right,2,DR,1
+41330_left,0,NO DR,0
+36404_right,0,NO DR,0
+3011_left,0,NO DR,0
+11035_left,3,DR,1
+13180_right,2,DR,1
+23395_left,2,DR,1
+15954_left,3,DR,1
+41415_left,2,DR,1
+16748_left,2,DR,1
+34611_left,0,NO DR,0
+27265_left,2,DR,1
+20996_left,2,DR,1
+3759_right,2,DR,1
+21852_left,2,DR,1
+31724_right,1,DR,1
+8583_right,2,DR,1
+9025_right,0,NO DR,0
+43694_left,1,DR,1
+34152_left,4,DR,1
+32890_right,1,DR,1
+9509_left,1,DR,1
+9764_right,2,DR,1
+8074_right,0,NO DR,0
+14119_right,0,NO DR,0
+11310_left,0,NO DR,0
+33323_right,2,DR,1
+35311_left,0,NO DR,0
+5437_right,2,DR,1
+40259_left,3,DR,1
+38245_left,0,NO DR,0
+43393_right,0,NO DR,0
+5365_left,1,DR,1
+38404_left,0,NO DR,0
+35584_right,0,NO DR,0
+17481_left,3,DR,1
+22849_left,2,DR,1
+5007_right,2,DR,1
+14748_left,2,DR,1
+41194_left,0,NO DR,0
+29423_right,0,NO DR,0
+2953_left,1,DR,1
+20337_right,0,NO DR,0
+37020_right,1,DR,1
+21814_right,2,DR,1
+31864_right,2,DR,1
+11823_right,2,DR,1
+9971_left,0,NO DR,0
+264_left,2,DR,1
+32085_right,0,NO DR,0
+26079_left,0,NO DR,0
+17357_right,0,NO DR,0
+14609_right,0,NO DR,0
+30345_left,0,NO DR,0
+43748_left,0,NO DR,0
+36577_right,2,DR,1
+37248_right,0,NO DR,0
+13966_left,4,DR,1
+24860_left,0,NO DR,0
+41307_right,0,NO DR,0
+6198_left,0,NO DR,0
+3648_right,2,DR,1
+1552_left,2,DR,1
+5692_right,0,NO DR,0
+10325_left,2,DR,1
+17940_right,4,DR,1
+17974_left,0,NO DR,0
+38046_left,0,NO DR,0
+18874_left,0,NO DR,0
+14976_right,4,DR,1
+3693_left,0,NO DR,0
+20513_right,1,DR,1
+24890_right,2,DR,1
 8040_left,0,NO DR,0
 28990_right,0,NO DR,0
-43966_right,0,NO DR,0
-31978_right,0,NO DR,0
-36184_right,2,DR,1
-13999_right,4,DR,1
-11651_left,2,DR,1
+42653_right,1,DR,1
+23935_left,0,NO DR,0
+43813_left,2,DR,1
+13222_left,4,DR,1
+7297_right,0,NO DR,0
+2744_right,0,NO DR,0
+20648_right,0,NO DR,0
+38914_right,2,DR,1
+11546_right,3,DR,1
+39773_right,0,NO DR,0
+36007_left,0,NO DR,0
+876_right,0,NO DR,0
+1851_right,2,DR,1
+18716_left,0,NO DR,0
+28125_left,0,NO DR,0
+18298_left,2,DR,1
+23548_right,0,NO DR,0
+41901_right,0,NO DR,0
+43210_left,2,DR,1
+1266_right,1,DR,1
+38995_left,0,NO DR,0
+32237_left,1,DR,1
+28657_right,0,NO DR,0
+42873_left,1,DR,1
+3851_left,0,NO DR,0
+1050_right,2,DR,1
+42210_left,2,DR,1
+20742_right,2,DR,1
+35742_left,0,NO DR,0
+15151_left,1,DR,1
+25806_left,0,NO DR,0
+12527_right,0,NO DR,0
+40186_right,0,NO DR,0
+30550_right,1,DR,1
+4811_left,2,DR,1
+3142_left,0,NO DR,0
+31436_right,2,DR,1
+9587_right,0,NO DR,0
+2062_left,0,NO DR,0
+14530_left,2,DR,1
+7265_left,0,NO DR,0
+26251_right,0,NO DR,0
+6190_right,2,DR,1
+32798_right,1,DR,1
+43077_right,2,DR,1
+14374_right,1,DR,1
+16408_left,2,DR,1
+3513_right,0,NO DR,0
+26591_right,1,DR,1
+25879_right,0,NO DR,0
+30513_left,0,NO DR,0
+23290_left,0,NO DR,0
+6276_right,2,DR,1
+10977_right,0,NO DR,0
+466_right,2,DR,1
+8543_left,0,NO DR,0
+20249_right,1,DR,1
+5592_right,0,NO DR,0
+869_left,1,DR,1
+22711_right,2,DR,1
+15510_right,0,NO DR,0
+1772_left,0,NO DR,0
+4130_right,4,DR,1
+11607_right,0,NO DR,0
+37354_left,2,DR,1
+15763_right,2,DR,1
+42284_left,2,DR,1
+14842_left,0,NO DR,0
+2363_left,0,NO DR,0
+41566_right,3,DR,1
+10368_left,0,NO DR,0
+11097_left,0,NO DR,0
+23982_right,0,NO DR,0
+9813_right,0,NO DR,0
+34639_left,0,NO DR,0
+28551_left,2,DR,1
+42655_left,0,NO DR,0
+26501_right,0,NO DR,0
+29793_left,0,NO DR,0
+26342_left,0,NO DR,0
+42634_left,0,NO DR,0
+26612_right,0,NO DR,0
+25945_right,2,DR,1
+29670_left,0,NO DR,0
+37763_left,0,NO DR,0
+44145_left,1,DR,1
+29793_right,0,NO DR,0
+9930_left,2,DR,1
+44020_right,0,NO DR,0
+5615_left,2,DR,1
+1267_left,0,NO DR,0
+37459_right,0,NO DR,0
+10464_left,0,NO DR,0
+34268_left,0,NO DR,0
+2470_right,2,DR,1
+33873_left,2,DR,1
+10864_left,0,NO DR,0
+43134_right,2,DR,1
+1999_left,1,DR,1
+37448_right,0,NO DR,0
+43932_left,2,DR,1
+41813_right,1,DR,1
+16594_right,0,NO DR,0
+18374_left,0,NO DR,0
+22267_left,0,NO DR,0
+26806_right,2,DR,1
+14153_left,0,NO DR,0
+7828_left,2,DR,1
+30696_right,0,NO DR,0
+4631_right,0,NO DR,0
+7279_right,2,DR,1
+13651_right,4,DR,1
+33786_right,2,DR,1
+11942_right,0,NO DR,0
+18325_left,2,DR,1
+15970_right,2,DR,1
+28949_right,0,NO DR,0
+7786_right,0,NO DR,0
+20500_left,2,DR,1
+5497_right,1,DR,1
+31480_right,0,NO DR,0
+9934_right,2,DR,1
+39505_right,4,DR,1
+5930_left,1,DR,1
+26753_left,0,NO DR,0
+6739_left,0,NO DR,0
+20189_left,2,DR,1
+19309_right,2,DR,1
+5010_left,1,DR,1
+42354_left,0,NO DR,0
+27010_right,2,DR,1
 26630_right,2,DR,1
-15646_right,0,NO DR,0
+31190_left,0,NO DR,0
+21026_right,0,NO DR,0
+30986_left,0,NO DR,0
+39934_left,0,NO DR,0
+43154_right,1,DR,1
+15149_right,4,DR,1
+10763_right,0,NO DR,0
+8681_right,4,DR,1
+20200_right,1,DR,1
+37382_left,0,NO DR,0
+12105_left,0,NO DR,0
+35675_left,0,NO DR,0
+13667_right,2,DR,1
+8006_left,1,DR,1
+22930_left,3,DR,1
+5396_left,2,DR,1
+28316_right,2,DR,1
+39287_right,1,DR,1
+34552_right,0,NO DR,0
+43664_right,0,NO DR,0
+4688_right,4,DR,1
+43995_right,0,NO DR,0
+6541_left,0,NO DR,0
+6210_left,0,NO DR,0
+29043_left,0,NO DR,0
+43927_left,0,NO DR,0
+19331_right,0,NO DR,0
+17811_left,0,NO DR,0
+20679_left,2,DR,1
+42506_right,0,NO DR,0
+21088_right,2,DR,1
+29031_left,0,NO DR,0
+29902_left,2,DR,1
+24171_right,0,NO DR,0
+38965_right,2,DR,1
+11114_right,0,NO DR,0
+14017_left,0,NO DR,0
+31970_left,0,NO DR,0
+10015_left,0,NO DR,0
+39716_right,0,NO DR,0
+19272_right,2,DR,1
+21596_left,0,NO DR,0
+30644_left,0,NO DR,0
+43467_left,0,NO DR,0
+15134_right,0,NO DR,0
+37032_right,3,DR,1
+23787_right,3,DR,1
+21593_left,0,NO DR,0
+20009_right,2,DR,1
+35285_right,3,DR,1
+5118_right,1,DR,1
+34223_left,0,NO DR,0
+3301_left,2,DR,1
+25620_left,2,DR,1
+356_left,0,NO DR,0
+18226_right,0,NO DR,0
+8023_left,0,NO DR,0
+21521_left,0,NO DR,0
+25043_right,0,NO DR,0
+16359_left,0,NO DR,0
+8538_left,2,DR,1
+26319_left,2,DR,1
+5650_left,0,NO DR,0
+8940_right,2,DR,1
+43775_left,0,NO DR,0
+3459_left,1,DR,1
+31777_left,0,NO DR,0
+3485_left,2,DR,1
+18653_left,2,DR,1
+44069_right,2,DR,1
+37117_left,4,DR,1
+10250_left,2,DR,1
+26700_left,0,NO DR,0
+12652_left,4,DR,1
+36533_left,0,NO DR,0
+378_left,2,DR,1
+37134_right,0,NO DR,0
+29623_left,1,DR,1
+35810_left,0,NO DR,0
+10954_right,4,DR,1
+41580_left,0,NO DR,0
+11273_right,0,NO DR,0
+43080_right,0,NO DR,0
+13999_right,4,DR,1
+31811_left,0,NO DR,0
+16740_right,3,DR,1
+38637_right,0,NO DR,0
+9167_right,2,DR,1
+44223_left,2,DR,1
+25936_left,1,DR,1
+11230_left,2,DR,1
+7556_right,1,DR,1
+36955_right,2,DR,1
+35889_left,2,DR,1
+12372_left,1,DR,1
+5497_left,1,DR,1
+34372_left,0,NO DR,0
+8678_right,3,DR,1
+2810_left,4,DR,1
+24668_right,1,DR,1
+41688_right,1,DR,1
+20120_right,0,NO DR,0
+13432_right,0,NO DR,0
+15324_right,0,NO DR,0
+30930_right,3,DR,1
+4641_left,0,NO DR,0
+14257_right,0,NO DR,0
+21124_right,0,NO DR,0
+34551_right,1,DR,1
+7667_left,0,NO DR,0
+19888_right,0,NO DR,0
+2508_right,2,DR,1
+43539_left,2,DR,1
+26698_right,2,DR,1
+24453_right,0,NO DR,0
+7494_right,1,DR,1
+42908_right,0,NO DR,0
+22952_left,2,DR,1
+33227_right,0,NO DR,0
+42874_right,0,NO DR,0
+20164_left,2,DR,1
+7110_right,0,NO DR,0
+44331_right,0,NO DR,0
+2675_right,0,NO DR,0
+16350_right,1,DR,1
+2853_left,0,NO DR,0
+20893_left,2,DR,1
+25444_left,0,NO DR,0
+22678_right,0,NO DR,0
+29919_left,2,DR,1
+6443_right,0,NO DR,0
+7363_right,2,DR,1
+27379_right,2,DR,1
+43090_right,0,NO DR,0
+27895_right,2,DR,1
+27168_left,2,DR,1
+16414_right,0,NO DR,0
+8462_right,4,DR,1
+3671_left,1,DR,1
+38298_left,0,NO DR,0
+20792_right,2,DR,1
+38213_left,0,NO DR,0
+6088_left,2,DR,1
+33711_left,1,DR,1
+29516_left,2,DR,1
+7805_left,2,DR,1
+2372_left,0,NO DR,0
+12026_right,0,NO DR,0
+5720_left,1,DR,1
+8302_right,3,DR,1
+40631_left,0,NO DR,0
+25697_left,2,DR,1
+17644_left,1,DR,1
+16238_right,0,NO DR,0
+23539_right,2,DR,1
+3167_left,0,NO DR,0
+11547_right,1,DR,1
+36322_right,1,DR,1
+17694_right,2,DR,1
+1675_right,2,DR,1
+18612_right,0,NO DR,0
+23696_left,0,NO DR,0
+9819_left,2,DR,1
+33621_right,4,DR,1
+6956_right,0,NO DR,0
+2664_right,0,NO DR,0
+27363_right,0,NO DR,0
+26481_left,2,DR,1
+7390_left,1,DR,1
+9298_left,4,DR,1
+39099_left,2,DR,1
+25269_right,2,DR,1
+26591_left,1,DR,1
+10570_right,4,DR,1
+29892_right,2,DR,1
+43105_left,3,DR,1
+7558_right,0,NO DR,0
+9608_right,4,DR,1
+10169_right,1,DR,1
+37758_left,0,NO DR,0
+1394_left,0,NO DR,0
+37431_right,0,NO DR,0
+19026_left,0,NO DR,0
+29421_left,0,NO DR,0
+29962_left,0,NO DR,0
+42413_right,0,NO DR,0
+11119_left,0,NO DR,0
+27677_right,1,DR,1
+554_left,0,NO DR,0
+41075_left,0,NO DR,0
+13446_right,2,DR,1
+21772_right,0,NO DR,0
+34340_left,0,NO DR,0
+37004_right,3,DR,1
+14110_left,1,DR,1
+17675_left,0,NO DR,0
+24327_right,0,NO DR,0
+192_left,2,DR,1
+15273_left,2,DR,1
+9947_left,2,DR,1
+4470_right,1,DR,1
+13376_left,1,DR,1
+28033_right,0,NO DR,0
+35708_right,2,DR,1
+8958_right,0,NO DR,0
+23403_right,2,DR,1
+20356_left,0,NO DR,0
+8517_right,0,NO DR,0
+33719_left,0,NO DR,0
+42011_left,0,NO DR,0
+9736_right,0,NO DR,0
+12445_left,2,DR,1
+5812_left,0,NO DR,0
+7617_left,2,DR,1
+13254_left,2,DR,1
+43633_left,3,DR,1
+30398_right,1,DR,1
+2131_left,2,DR,1
+24230_right,0,NO DR,0
+38743_right,2,DR,1
+36184_right,2,DR,1
+40757_left,1,DR,1
+419_left,2,DR,1
+43450_left,1,DR,1
+9001_left,3,DR,1
+25004_left,0,NO DR,0
+21978_right,1,DR,1
+13158_left,1,DR,1
+11365_left,0,NO DR,0
+9809_right,2,DR,1
+25751_right,2,DR,1
+9518_right,4,DR,1
+31565_right,2,DR,1
+10321_left,4,DR,1
+13069_right,0,NO DR,0
+26309_right,0,NO DR,0
+15807_left,0,NO DR,0
+31581_right,0,NO DR,0
+299_left,0,NO DR,0
+29559_right,1,DR,1
+30567_right,2,DR,1
+43657_right,0,NO DR,0
+35082_right,0,NO DR,0
+24550_right,2,DR,1
+14202_left,2,DR,1
+417_right,1,DR,1
+31772_left,1,DR,1
+19878_right,1,DR,1
+17415_left,2,DR,1
+34171_right,0,NO DR,0
+37829_left,4,DR,1
+35846_right,0,NO DR,0
+41241_right,0,NO DR,0
+8246_right,0,NO DR,0
+13567_left,2,DR,1
+15756_right,2,DR,1
+7947_right,0,NO DR,0
+3636_left,2,DR,1
+25872_right,3,DR,1
+18709_left,0,NO DR,0
+5062_right,1,DR,1
+11889_right,3,DR,1
+531_left,3,DR,1
+18767_left,0,NO DR,0
+16815_left,2,DR,1
+240_right,1,DR,1
+38232_right,0,NO DR,0
+43805_left,2,DR,1
+30702_right,0,NO DR,0
+27906_left,2,DR,1
+37586_left,2,DR,1
+40343_left,0,NO DR,0
+19897_right,2,DR,1
+22947_right,0,NO DR,0
+11623_left,2,DR,1
+36671_left,0,NO DR,0
+18445_right,2,DR,1
+22144_left,2,DR,1
+32535_right,0,NO DR,0
+21281_left,2,DR,1
+3096_right,3,DR,1
+41889_right,0,NO DR,0
+8951_right,0,NO DR,0
+7853_right,4,DR,1
+20322_right,0,NO DR,0
+35461_left,4,DR,1
+6624_left,2,DR,1
+20867_left,0,NO DR,0
+421_left,1,DR,1
+27395_right,4,DR,1
+26547_right,0,NO DR,0
+18942_right,0,NO DR,0
+9670_left,1,DR,1
+10218_left,0,NO DR,0
+627_left,0,NO DR,0
+24040_right,0,NO DR,0
+1862_left,0,NO DR,0
+41600_right,2,DR,1
+4917_left,0,NO DR,0
+16388_right,0,NO DR,0
+31944_left,0,NO DR,0
+22921_left,0,NO DR,0
+13773_right,2,DR,1
+40616_right,2,DR,1
+15136_left,0,NO DR,0
+11651_left,2,DR,1
+557_left,0,NO DR,0
 27098_left,2,DR,1
 18363_left,3,DR,1
 24168_right,2,DR,1
-37004_right,3,DR,1
-28657_right,0,NO DR,0
-37471_right,0,NO DR,0
-44168_right,0,NO DR,0
-16025_left,3,DR,1
-8302_right,3,DR,1
-11365_left,0,NO DR,0
+28177_left,1,DR,1
+38506_right,0,NO DR,0
+12000_right,2,DR,1
 19306_right,2,DR,1
-33227_right,0,NO DR,0
-10250_left,2,DR,1
-41580_left,0,NO DR,0
-44268_left,0,NO DR,0
+35035_left,0,NO DR,0
+30226_left,3,DR,1
+16390_right,0,NO DR,0
+31183_right,2,DR,1
+3695_right,0,NO DR,0
+8360_left,2,DR,1
+16642_right,0,NO DR,0
+39667_right,2,DR,1
+25419_left,2,DR,1
 7137_right,3,DR,1
-22952_left,2,DR,1
-14017_left,0,NO DR,0
-13186_right,0,NO DR,0
-38897_right,0,NO DR,0
-23683_left,0,NO DR,0
-3671_left,1,DR,1
-37829_left,4,DR,1
+40390_right,1,DR,1
+31133_right,0,NO DR,0
+7298_right,3,DR,1
+29712_left,0,NO DR,0
+8269_left,0,NO DR,0
 40189_left,2,DR,1
+18803_right,4,DR,1
 24472_left,4,DR,1
-1851_right,2,DR,1
-27379_right,2,DR,1
-21578_right,0,NO DR,0
-38046_left,0,NO DR,0
+44298_right,0,NO DR,0
+43399_left,2,DR,1
 38168_right,2,DR,1
-10977_right,0,NO DR,0
+43131_left,0,NO DR,0
 37656_left,2,DR,1
-42653_right,1,DR,1
-27842_right,0,NO DR,0
+3641_right,0,NO DR,0
+24535_left,0,NO DR,0
+31621_left,1,DR,1
 1527_left,2,DR,1
-25936_left,1,DR,1
 36453_left,4,DR,1
 37849_right,4,DR,1
-26698_right,2,DR,1
+29474_right,0,NO DR,0
 10831_left,2,DR,1
-18445_right,2,DR,1
-1743_right,2,DR,1
-38364_left,0,NO DR,0
-8583_right,2,DR,1
-18803_right,4,DR,1
+36421_left,0,NO DR,0
+8111_left,2,DR,1
+18345_left,0,NO DR,0
+22799_left,0,NO DR,0
+23553_left,1,DR,1
+28919_right,3,DR,1
+3308_right,0,NO DR,0
 19444_left,2,DR,1
 12208_right,3,DR,1
-40343_left,0,NO DR,0
+36130_left,3,DR,1
 27452_right,2,DR,1
-4470_right,1,DR,1
-43389_left,0,NO DR,0
+33617_left,0,NO DR,0
 35873_left,3,DR,1
-18984_right,0,NO DR,0
-11823_right,2,DR,1
+10743_left,0,NO DR,0
 4695_right,2,DR,1
-37117_left,4,DR,1
-10015_left,0,NO DR,0
-38914_right,2,DR,1
+4886_left,2,DR,1
+33905_right,0,NO DR,0
+18643_left,0,NO DR,0
+39009_right,1,DR,1
 42954_left,2,DR,1
-26966_left,0,NO DR,0
-34928_right,0,NO DR,0
-5062_right,1,DR,1
-531_left,3,DR,1
-13951_right,0,NO DR,0
+12352_left,0,NO DR,0
+21233_left,3,DR,1
 30269_left,2,DR,1
-28551_left,2,DR,1
-24327_right,0,NO DR,0
-17123_right,0,NO DR,0
+7057_left,2,DR,1
+43662_right,0,NO DR,0
 10233_right,1,DR,1
-26700_left,0,NO DR,0
-4631_right,0,NO DR,0
+15655_right,0,NO DR,0
+43304_left,0,NO DR,0
+307_left,0,NO DR,0
 19158_left,1,DR,1
 23447_right,3,DR,1
-37761_left,0,NO DR,0
 31205_left,2,DR,1
-11119_left,0,NO DR,0
-9764_right,2,DR,1
-18653_left,2,DR,1
-20679_left,2,DR,1
-25444_left,0,NO DR,0
-36007_left,0,NO DR,0
-24478_left,2,DR,1
-10169_right,1,DR,1
-42914_right,0,NO DR,0
-29793_right,0,NO DR,0
-16642_right,0,NO DR,0
-40327_right,0,NO DR,0
-3641_right,0,NO DR,0
-28919_right,3,DR,1
-27265_left,2,DR,1
-17591_right,0,NO DR,0
-6750_left,0,NO DR,0
-29601_left,0,NO DR,0
-32085_right,0,NO DR,0
-27597_left,4,DR,1
-20120_right,0,NO DR,0
-30889_left,0,NO DR,0
-36669_right,0,NO DR,0
-6443_right,0,NO DR,0
-22678_right,0,NO DR,0
-26591_left,1,DR,1
-11975_left,2,DR,1
-41332_left,0,NO DR,0
+18310_right,0,NO DR,0
+37017_right,2,DR,1
+25926_right,0,NO DR,0
+21623_right,0,NO DR,0
+42625_right,0,NO DR,0
 23745_left,2,DR,1
-3167_left,0,NO DR,0
-1050_right,2,DR,1
-43965_right,2,DR,1
-43134_right,2,DR,1
-17049_right,2,DR,1
-31811_left,0,NO DR,0
-12612_right,3,DR,1
-43105_left,3,DR,1
-40390_right,1,DR,1
-30042_left,2,DR,1
-44025_right,1,DR,1
-43694_right,1,DR,1
-35285_right,3,DR,1
-20792_right,2,DR,1
-28779_left,2,DR,1
-12986_right,0,NO DR,0
-21124_right,0,NO DR,0
-11889_right,3,DR,1
-43897_right,0,NO DR,0
-11385_right,0,NO DR,0
-8269_left,0,NO DR,0
-17901_right,0,NO DR,0
-44020_right,0,NO DR,0
-6796_left,0,NO DR,0
+1541_right,2,DR,1
+24478_left,2,DR,1
+10279_right,0,NO DR,0
+11909_right,0,NO DR,0
+15937_right,0,NO DR,0
+28272_left,0,NO DR,0
+2858_left,1,DR,1
+14984_left,0,NO DR,0
+43863_right,0,NO DR,0
+5516_left,1,DR,1
+20878_right,2,DR,1
+27597_left,4,DR,1
+10149_left,0,NO DR,0
+18845_left,0,NO DR,0
+14152_right,2,DR,1
+6236_right,2,DR,1
+38933_left,0,NO DR,0
 5140_right,3,DR,1
-43396_right,0,NO DR,0
-17011_right,0,NO DR,0
-8653_left,0,NO DR,0
-22267_left,0,NO DR,0
+11975_left,2,DR,1
+6087_right,0,NO DR,0
+14216_left,0,NO DR,0
+18971_right,3,DR,1
+17049_right,2,DR,1
+12612_right,3,DR,1
+22940_right,0,NO DR,0
+43694_right,1,DR,1
+20267_right,0,NO DR,0
+28779_left,2,DR,1
+33325_right,0,NO DR,0
+40143_right,0,NO DR,0
+32847_right,0,NO DR,0
+30054_left,0,NO DR,0
+19063_left,0,NO DR,0
+15615_right,2,DR,1
+9724_left,0,NO DR,0
+32905_left,0,NO DR,0
+44025_right,1,DR,1
 13768_right,2,DR,1
-14045_right,2,DR,1
-39099_left,2,DR,1
-38725_right,0,NO DR,0
-23788_left,0,NO DR,0
-31985_left,0,NO DR,0
+42363_left,0,NO DR,0
+25852_left,0,NO DR,0
+14008_left,0,NO DR,0
 9959_right,1,DR,1
 31639_left,2,DR,1
 29929_right,1,DR,1
-5437_right,2,DR,1
-22445_right,0,NO DR,0
-35082_right,0,NO DR,0
-10510_left,3,DR,1
-13567_left,2,DR,1
+32153_left,0,NO DR,0
+14344_right,0,NO DR,0
+43339_left,4,DR,1
+9198_right,0,NO DR,0
+6750_left,0,NO DR,0
 13522_left,1,DR,1
 24743_right,2,DR,1
-17050_left,0,NO DR,0
-10321_left,4,DR,1
-13651_right,4,DR,1
-20893_left,2,DR,1
-13545_left,0,NO DR,0
+12616_right,0,NO DR,0
+39598_left,0,NO DR,0
 2545_left,2,DR,1
-7556_right,1,DR,1
-41281_left,0,NO DR,0
-11619_right,0,NO DR,0
-6210_left,0,NO DR,0
-26426_left,0,NO DR,0
-1772_left,0,NO DR,0
-26501_right,0,NO DR,0
-43633_left,3,DR,1
+43927_right,0,NO DR,0
+38011_left,1,DR,1
+18136_right,0,NO DR,0
+8554_left,0,NO DR,0
+29109_left,0,NO DR,0
 15975_right,4,DR,1
 2966_left,2,DR,1
-37965_left,0,NO DR,0
-26248_left,2,DR,1
+30353_left,0,NO DR,0
+23326_right,4,DR,1
 38225_left,2,DR,1
-27395_right,4,DR,1
 21469_right,2,DR,1
-20249_right,1,DR,1
-11982_left,0,NO DR,0
-41891_left,0,NO DR,0
-38431_right,0,NO DR,0
-29902_left,2,DR,1
-8749_left,3,DR,1
-16408_left,2,DR,1
-14152_right,2,DR,1
 30448_right,1,DR,1
-8511_left,0,NO DR,0
-30600_left,0,NO DR,0
-11273_right,0,NO DR,0
-3096_right,3,DR,1
-6236_right,2,DR,1
-16594_right,0,NO DR,0
-35398_left,0,NO DR,0
-11435_left,0,NO DR,0
-26747_right,0,NO DR,0
-5516_left,1,DR,1
-40984_right,0,NO DR,0
-23351_left,0,NO DR,0
+31729_right,4,DR,1
+39613_right,2,DR,1
+31978_right,0,NO DR,0
+8749_left,3,DR,1
+27518_left,0,NO DR,0
+27168_right,2,DR,1
+487_left,0,NO DR,0
+39540_left,0,NO DR,0
+5750_right,0,NO DR,0
+42449_left,0,NO DR,0
+23551_right,0,NO DR,0
+41948_left,0,NO DR,0
+10257_right,0,NO DR,0
 13889_right,3,DR,1
-43736_left,0,NO DR,0
 3104_left,2,DR,1
 1520_left,1,DR,1
+17768_right,0,NO DR,0
 20913_left,1,DR,1
-43467_left,0,NO DR,0
+17591_right,0,NO DR,0
+1452_right,0,NO DR,0
+6189_left,0,NO DR,0
 3754_right,2,DR,1
 14269_right,2,DR,1
-21772_right,0,NO DR,0
+27612_right,2,DR,1
+23248_left,2,DR,1
 32086_left,2,DR,1
 42237_right,2,DR,1
-44187_left,0,NO DR,0
-1092_right,0,NO DR,0
+6796_left,0,NO DR,0
+44020_left,0,NO DR,0
+38729_left,0,NO DR,0
+19458_right,0,NO DR,0
+7311_right,0,NO DR,0
 39050_right,2,DR,1
 36653_left,4,DR,1
-1408_right,0,NO DR,0
-3851_left,0,NO DR,0
+1092_right,0,NO DR,0
+367_left,4,DR,1
 41252_left,2,DR,1
-43775_left,0,NO DR,0
+28865_right,0,NO DR,0
+43796_right,0,NO DR,0
 39860_right,2,DR,1
-39389_left,0,NO DR,0
+26540_left,0,NO DR,0
 25083_left,2,DR,1
-2853_left,0,NO DR,0
+33226_left,0,NO DR,0
 39664_left,2,DR,1
-19026_left,0,NO DR,0
+39972_left,0,NO DR,0
+10109_right,2,DR,1
 22668_right,2,DR,1
+37761_left,0,NO DR,0
 405_right,4,DR,1
 11159_right,1,DR,1
-15510_right,0,NO DR,0
+2041_right,0,NO DR,0
+1032_right,2,DR,1
 6017_right,4,DR,1
+23289_left,0,NO DR,0
 34718_left,1,DR,1
 7617_right,2,DR,1
 7322_left,1,DR,1
 41284_right,2,DR,1
+694_right,0,NO DR,0
+4527_right,1,DR,1
 3868_left,3,DR,1
-41241_right,0,NO DR,0
-10962_left,0,NO DR,0
-39773_right,0,NO DR,0
-8334_right,0,NO DR,0
+32807_right,0,NO DR,0
+40193_right,0,NO DR,0
+36141_left,0,NO DR,0
+10592_right,2,DR,1
+37965_left,0,NO DR,0
+16401_left,0,NO DR,0
+38753_right,0,NO DR,0
+23133_right,0,NO DR,0
 1259_right,2,DR,1
 36190_left,3,DR,1
 40284_right,1,DR,1
-554_left,0,NO DR,0
+27912_left,0,NO DR,0
+37677_right,0,NO DR,0
 15594_right,2,DR,1
-3308_right,0,NO DR,0
-22076_right,0,NO DR,0
+14418_right,0,NO DR,0
+32622_right,0,NO DR,0
+8511_left,0,NO DR,0
+34189_right,0,NO DR,0
+22003_left,0,NO DR,0
+10095_right,0,NO DR,0
+27368_left,1,DR,1
+2839_left,0,NO DR,0
 3605_left,1,DR,1
 38168_left,2,DR,1
+5303_right,0,NO DR,0
 25318_left,3,DR,1
 39241_left,2,DR,1
+17011_right,0,NO DR,0
 8030_right,2,DR,1
-34559_right,0,NO DR,0
-37763_left,0,NO DR,0
-7110_right,0,NO DR,0
+36846_right,2,DR,1
+38345_right,3,DR,1
+17639_right,0,NO DR,0
+5041_left,0,NO DR,0
+12410_left,2,DR,1
 35323_left,2,DR,1
+2413_right,0,NO DR,0
 22760_left,2,DR,1
-1624_left,0,NO DR,0
+9844_left,0,NO DR,0
+36669_right,0,NO DR,0
+41330_right,0,NO DR,0
+8334_right,0,NO DR,0
 17234_left,2,DR,1
 25080_right,4,DR,1
-25806_left,0,NO DR,0
+4266_right,0,NO DR,0
+21188_left,2,DR,1
 19626_right,1,DR,1
 29293_right,1,DR,1
-33325_right,0,NO DR,0
+4930_right,0,NO DR,0
+24227_left,2,DR,1
+41891_left,0,NO DR,0
+18045_right,0,NO DR,0
 1142_right,2,DR,1
+6144_left,0,NO DR,0
+24762_left,0,NO DR,0
 40673_left,4,DR,1
-11114_right,0,NO DR,0
+5752_right,0,NO DR,0
 36103_right,2,DR,1
 10312_right,2,DR,1
+26458_right,0,NO DR,0
 24402_right,2,DR,1
-17303_right,0,NO DR,0
+43397_left,0,NO DR,0
+7403_left,0,NO DR,0
 35215_left,1,DR,1
 33996_right,2,DR,1
-20337_right,0,NO DR,0
-10218_left,0,NO DR,0
-14609_right,0,NO DR,0
+6378_left,0,NO DR,0
+25303_left,2,DR,1
+23902_right,0,NO DR,0
+32450_right,2,DR,1
+26192_left,0,NO DR,0
+11385_right,0,NO DR,0
 41188_right,2,DR,1
-32807_right,0,NO DR,0
-30054_left,0,NO DR,0
+4998_right,0,NO DR,0
+5436_left,2,DR,1
+15315_left,0,NO DR,0
+38249_left,0,NO DR,0
+13951_right,0,NO DR,0
 23593_right,2,DR,1
 13353_right,2,DR,1
 13962_left,1,DR,1
-33271_right,0,NO DR,0
-28125_left,0,NO DR,0
-19464_left,0,NO DR,0
-17675_left,0,NO DR,0
+30889_left,0,NO DR,0
+11234_right,0,NO DR,0
+4127_right,0,NO DR,0
+26747_right,0,NO DR,0
+5995_right,0,NO DR,0
+35861_left,4,DR,1
 23446_left,2,DR,1
+43736_left,0,NO DR,0
+36877_right,0,NO DR,0
+14064_right,0,NO DR,0
 17317_left,1,DR,1
-24238_right,0,NO DR,0
-2495_left,0,NO DR,0
-43927_left,0,NO DR,0
+17050_left,0,NO DR,0
+43225_left,0,NO DR,0
+8653_left,0,NO DR,0
+27253_right,0,NO DR,0
+6971_left,2,DR,1
+32532_right,0,NO DR,0
+38725_right,0,NO DR,0
+18823_left,0,NO DR,0
 4839_left,1,DR,1
 18014_right,1,DR,1
 11734_right,2,DR,1
 13892_right,2,DR,1
-42413_right,0,NO DR,0
-18315_left,0,NO DR,0
+26543_left,0,NO DR,0
+40438_left,0,NO DR,0
 13820_left,2,DR,1
 20236_right,1,DR,1
-31480_right,0,NO DR,0
-23696_left,0,NO DR,0
+18780_right,0,NO DR,0
+34389_right,0,NO DR,0
+44168_right,0,NO DR,0
 17040_right,2,DR,1
 32298_right,1,DR,1
-32847_right,0,NO DR,0
-3142_left,0,NO DR,0
-25004_left,0,NO DR,0
-16401_left,0,NO DR,0
-43657_right,0,NO DR,0
-21026_right,0,NO DR,0
-11234_right,0,NO DR,0
+33359_left,2,DR,1
+29560_right,2,DR,1
+5212_right,0,NO DR,0
+30600_left,0,NO DR,0
+27438_left,0,NO DR,0
+7811_left,0,NO DR,0
+30033_left,1,DR,1
+33168_left,2,DR,1
 39164_right,4,DR,1
-7311_right,0,NO DR,0
+9848_right,1,DR,1
 16_right,4,DR,1
-25602_left,0,NO DR,0
+18699_left,0,NO DR,0
 8236_right,4,DR,1
 2194_left,2,DR,1
-19458_right,0,NO DR,0
+20439_right,2,DR,1
 30367_right,2,DR,1
-9115_left,0,NO DR,0
-557_left,0,NO DR,0
-35584_right,0,NO DR,0
-43863_right,0,NO DR,0
-25955_left,2,DR,1
-7623_right,3,DR,1
-2062_left,0,NO DR,0
+14094_left,2,DR,1
+31984_right,3,DR,1
+39365_left,2,DR,1
 25881_right,0,NO DR,0
+34613_left,0,NO DR,0
+15646_right,0,NO DR,0
+7144_left,0,NO DR,0
+25955_left,2,DR,1
+702_left,0,NO DR,0
+7623_right,3,DR,1
+44229_right,0,NO DR,0
+34668_right,0,NO DR,0
+37501_left,0,NO DR,0
 38116_right,1,DR,1
 29320_right,1,DR,1
-42449_left,0,NO DR,0
+9863_right,4,DR,1
+12026_left,0,NO DR,0
 12070_right,1,DR,1
-7590_left,0,NO DR,0
+25646_right,0,NO DR,0
 42596_right,1,DR,1
 44199_right,2,DR,1
 11625_right,2,DR,1
-4160_right,0,NO DR,0
+2495_left,0,NO DR,0
+40605_left,0,NO DR,0
+31777_right,0,NO DR,0
 14249_left,2,DR,1
 16386_right,2,DR,1
-13432_right,0,NO DR,0
-22543_right,0,NO DR,0
-8153_left,0,NO DR,0
-9198_right,0,NO DR,0
+42403_left,0,NO DR,0
+803_right,0,NO DR,0
+4194_right,0,NO DR,0
+18126_left,3,DR,1
+26966_left,0,NO DR,0
+10269_right,0,NO DR,0
 20621_right,2,DR,1
-15322_right,0,NO DR,0
-14008_left,0,NO DR,0
-14418_right,0,NO DR,0
-18874_left,0,NO DR,0
-44298_right,0,NO DR,0
-11909_right,0,NO DR,0
-38249_left,0,NO DR,0
+19890_right,0,NO DR,0
+17279_right,0,NO DR,0
+15610_left,0,NO DR,0
+5632_right,2,DR,1
+28573_left,0,NO DR,0
+11982_left,0,NO DR,0
+41376_left,0,NO DR,0
+37963_right,0,NO DR,0
+32486_right,0,NO DR,0
+38247_right,3,DR,1
+4702_left,2,DR,1
+38364_left,0,NO DR,0
+34829_right,0,NO DR,0
 12170_left,1,DR,1
+36771_left,0,NO DR,0
+26426_left,0,NO DR,0
 14564_left,0,NO DR,0
+37471_right,0,NO DR,0
+25171_left,0,NO DR,0
+34928_right,0,NO DR,0
+14583_left,0,NO DR,0
 7607_right,2,DR,1
-17768_right,0,NO DR,0
-44020_left,0,NO DR,0
-12182_right,0,NO DR,0
+35740_left,0,NO DR,0
+20764_left,0,NO DR,0
+14981_left,1,DR,1
 26919_left,2,DR,1
 29168_right,2,DR,1
-42655_left,0,NO DR,0
+23788_left,0,NO DR,0
+23351_left,0,NO DR,0
 12931_right,2,DR,1
 16963_left,2,DR,1
 40575_left,2,DR,1
-14119_right,0,NO DR,0
-23160_right,0,NO DR,0
-34922_left,0,NO DR,0
-24171_right,0,NO DR,0
+9358_right,0,NO DR,0
+18862_right,3,DR,1
+11435_left,0,NO DR,0
+25274_right,0,NO DR,0
+43897_right,0,NO DR,0
 42973_left,2,DR,1
 39312_right,2,DR,1
 12392_left,1,DR,1
 22334_left,2,DR,1
-19888_right,0,NO DR,0
+18523_right,0,NO DR,0
 34084_left,2,DR,1
-15315_left,0,NO DR,0
-26543_left,0,NO DR,0
-14344_right,0,NO DR,0
+22080_right,0,NO DR,0
+39389_left,0,NO DR,0
+20817_right,0,NO DR,0
+16007_left,2,DR,1
 38700_right,2,DR,1
-11097_left,0,NO DR,0
+9244_right,1,DR,1
 25445_left,2,DR,1
 29367_left,1,DR,1
-30119_right,0,NO DR,0
+1408_right,0,NO DR,0
 37709_left,2,DR,1
 21540_right,2,DR,1
-41330_right,0,NO DR,0
-30644_left,0,NO DR,0
-25043_right,0,NO DR,0
-43995_right,0,NO DR,0
-24860_left,0,NO DR,0
+10790_left,0,NO DR,0
+36029_right,0,NO DR,0
+34922_left,0,NO DR,0
+5304_left,3,DR,1
+17962_left,0,NO DR,0
+11789_right,0,NO DR,0
+13545_left,0,NO DR,0
+4165_left,0,NO DR,0
 23177_right,2,DR,1
-42037_right,0,NO DR,0
+31014_left,0,NO DR,0
 16392_right,4,DR,1
+17028_left,0,NO DR,0
 5657_left,2,DR,1
 42387_right,2,DR,1
-34389_right,0,NO DR,0
-27912_left,0,NO DR,0
-17028_left,0,NO DR,0
-25926_right,0,NO DR,0
-39716_right,0,NO DR,0
+3896_left,0,NO DR,0
+37330_left,2,DR,1
+43389_left,0,NO DR,0
+25896_right,0,NO DR,0
+12646_right,0,NO DR,0
+18463_left,0,NO DR,0
+36799_left,0,NO DR,0
+34752_right,0,NO DR,0
+16561_right,2,DR,1
+42914_right,0,NO DR,0
+4659_left,0,NO DR,0
+33271_right,0,NO DR,0
 19075_left,1,DR,1
+15308_left,0,NO DR,0
+42037_right,0,NO DR,0
+13062_right,0,NO DR,0
 24625_right,2,DR,1
 42702_left,1,DR,1
-38994_right,0,NO DR,0
-31944_left,0,NO DR,0
-14984_left,0,NO DR,0
-5812_left,0,NO DR,0
-29560_right,2,DR,1
+4928_right,0,NO DR,0
+27876_right,0,NO DR,0
+1152_right,2,DR,1
+38301_left,2,DR,1
+8654_left,0,NO DR,0
+15322_right,0,NO DR,0
+9266_right,0,NO DR,0
+40787_left,0,NO DR,0
 23480_right,1,DR,1
-7494_right,1,DR,1
 26874_right,2,DR,1
-21814_right,2,DR,1
-26251_right,0,NO DR,0
-2372_left,0,NO DR,0
+7819_right,0,NO DR,0
 14397_left,1,DR,1
-10743_left,0,NO DR,0
+30119_right,0,NO DR,0
+12986_right,0,NO DR,0
 466_left,2,DR,1
-33581_left,0,NO DR,0
+7391_left,0,NO DR,0
 32145_right,2,DR,1
 13808_right,2,DR,1
+41281_left,0,NO DR,0
 3194_right,2,DR,1
 6715_left,2,DR,1
-17694_right,2,DR,1
 43901_right,2,DR,1
-20996_left,2,DR,1
-34400_left,4,DR,1
-25945_right,2,DR,1
-41948_left,0,NO DR,0
-9589_left,0,NO DR,0
-38753_right,0,NO DR,0
-4659_left,0,NO DR,0
-25896_right,0,NO DR,0
-41813_right,1,DR,1
-34536_left,0,NO DR,0
-38301_left,2,DR,1
-26753_left,0,NO DR,0
-33987_right,0,NO DR,0
 22979_left,0,NO DR,0
-24453_right,0,NO DR,0
-30728_right,2,DR,1
-38933_left,0,NO DR,0
-16359_left,0,NO DR,0
-23133_right,0,NO DR,0
-14842_left,0,NO DR,0
-36421_left,0,NO DR,0
-30513_left,0,NO DR,0
-32445_right,0,NO DR,0
-40410_right,0,NO DR,0
-25419_left,2,DR,1
-43393_right,0,NO DR,0
-33978_right,0,NO DR,0
-39613_right,2,DR,1
-25274_right,0,NO DR,0
-10374_left,2,DR,1
-33359_left,2,DR,1
-27081_right,4,DR,1
-43767_right,0,NO DR,0
-16007_left,2,DR,1
-16390_right,0,NO DR,0
-38506_right,0,NO DR,0
-33719_left,0,NO DR,0
-16815_left,2,DR,1
-7667_left,0,NO DR,0
-8074_right,0,NO DR,0
-13222_left,4,DR,1
-34639_left,0,NO DR,0
-8964_right,0,NO DR,0
-18999_right,2,DR,1
-23981_left,0,NO DR,0
-25620_left,2,DR,1
-29109_left,0,NO DR,0
-28033_right,0,NO DR,0
-44191_left,1,DR,1
-9670_left,1,DR,1
-35311_left,0,NO DR,0
-3232_left,0,NO DR,0
-43304_left,0,NO DR,0
-9863_right,4,DR,1
-9934_right,2,DR,1
+34400_left,4,DR,1
+20857_right,0,NO DR,0
 15954_right,3,DR,1
-20189_left,2,DR,1
-1452_right,0,NO DR,0
-10763_right,0,NO DR,0
-37330_left,2,DR,1
-39667_right,2,DR,1
-7947_right,0,NO DR,0
-26079_left,0,NO DR,0
-37963_right,0,NO DR,0
-40228_left,0,NO DR,0
-31190_left,0,NO DR,0
-15454_left,0,NO DR,0
-8778_right,0,NO DR,0
-17974_left,0,NO DR,0
-5692_right,0,NO DR,0
-43662_right,0,NO DR,0
-34189_right,0,NO DR,0
-8246_right,0,NO DR,0
-31501_left,0,NO DR,0
-25171_left,0,NO DR,0
-10109_right,2,DR,1
-5396_left,2,DR,1
-34372_left,0,NO DR,0
-9244_right,1,DR,1
-9358_right,0,NO DR,0
-25303_left,2,DR,1
-18463_left,0,NO DR,0
-1501_right,2,DR,1
-30353_left,0,NO DR,0
-5041_left,0,NO DR,0
-16547_left,0,NO DR,0
-4641_left,0,NO DR,0
-11992_left,0,NO DR,0
-627_left,0,NO DR,0
-23541_right,2,DR,1
+19464_left,0,NO DR,0
+30728_right,2,DR,1
+18008_left,0,NO DR,0
+41979_left,1,DR,1
+27081_right,4,DR,1
+22445_right,0,NO DR,0
+25602_left,0,NO DR,0
+438_right,0,NO DR,0
+10374_left,2,DR,1
 23379_right,0,NO DR,0
-4911_left,2,DR,1
-20867_left,0,NO DR,0
-39540_left,0,NO DR,0
-6189_left,0,NO DR,0
-11623_left,2,DR,1
-26458_right,0,NO DR,0
-41330_left,0,NO DR,0
+32430_right,0,NO DR,0
+18999_right,2,DR,1
+17762_right,0,NO DR,0
+33581_left,0,NO DR,0
+38897_right,0,NO DR,0
+42991_left,0,NO DR,0
+23683_left,0,NO DR,0
+28273_right,0,NO DR,0
+36591_right,0,NO DR,0
+35650_right,0,NO DR,0
+17901_right,0,NO DR,0
+22076_right,0,NO DR,0
+14816_right,1,DR,1
+43966_right,0,NO DR,0
+18915_left,1,DR,1
+34382_left,1,DR,1
+644_left,0,NO DR,0
+24221_right,2,DR,1
+23981_left,0,NO DR,0
+8449_left,0,NO DR,0
+24871_left,2,DR,1
+23541_right,2,DR,1
+29601_left,0,NO DR,0
+35726_right,2,DR,1
+23171_right,0,NO DR,0
+7487_left,0,NO DR,0
+25314_left,0,NO DR,0
+11796_left,0,NO DR,0
 30205_left,1,DR,1
 31602_left,4,DR,1
-33226_left,0,NO DR,0
+40327_right,0,NO DR,0
+33987_right,0,NO DR,0
 41852_right,4,DR,1
-4266_right,0,NO DR,0
-6087_right,0,NO DR,0
-367_left,4,DR,1
-38345_right,3,DR,1
-11942_right,0,NO DR,0
-23171_right,0,NO DR,0
-44229_right,0,NO DR,0
-8958_right,0,NO DR,0
-21270_left,0,NO DR,0
-24903_left,0,NO DR,0
-19063_left,0,NO DR,0
-19331_right,0,NO DR,0
+44187_left,0,NO DR,0
+34559_right,0,NO DR,0
+40228_left,0,NO DR,0
+22702_left,0,NO DR,0
+10962_left,0,NO DR,0
+21708_left,0,NO DR,0
+17303_right,0,NO DR,0
+26930_left,0,NO DR,0
 36166_right,4,DR,1
-1862_left,0,NO DR,0
-26192_left,0,NO DR,0
-28949_right,0,NO DR,0
+8153_left,0,NO DR,0
 9876_right,2,DR,1
-6541_left,0,NO DR,0
-35889_left,2,DR,1
-18126_left,3,DR,1
-9724_left,0,NO DR,0
-37501_left,0,NO DR,0
+6631_left,1,DR,1
+9115_left,0,NO DR,0
+40984_right,0,NO DR,0
+37633_right,0,NO DR,0
+26348_left,0,NO DR,0
 17817_left,2,DR,1
 43489_left,2,DR,1
-29623_left,1,DR,1
-12352_left,0,NO DR,0
+7590_left,0,NO DR,0
+38800_right,2,DR,1
+8353_left,0,NO DR,0
 6719_left,4,DR,1
-35861_left,4,DR,1
-27253_right,0,NO DR,0
 19489_left,2,DR,1
 32311_left,3,DR,1
 13169_left,1,DR,1
-39934_left,0,NO DR,0
 19166_right,2,DR,1
-22738_left,0,NO DR,0
-38011_left,1,DR,1
-18325_left,2,DR,1
-3636_left,2,DR,1
-11546_right,3,DR,1
-3464_left,0,NO DR,0
-24890_right,2,DR,1
-27466_right,0,NO DR,0
-37448_right,0,NO DR,0
-34613_left,0,NO DR,0
-4930_right,0,NO DR,0
+18825_right,2,DR,1
+15208_left,0,NO DR,0
+13186_right,0,NO DR,0
+8319_right,2,DR,1
 607_right,1,DR,1
-1394_left,0,NO DR,0
 2916_right,4,DR,1
-13966_left,4,DR,1
-38800_right,2,DR,1
+18315_left,0,NO DR,0
 11529_left,3,DR,1
 41843_right,2,DR,1
 2382_left,1,DR,1
-7487_left,0,NO DR,0
+36726_left,0,NO DR,0
 10883_right,2,DR,1
-25314_left,0,NO DR,0
-12410_left,2,DR,1
-35740_left,0,NO DR,0
+43767_right,0,NO DR,0
+27466_right,0,NO DR,0
+19573_left,0,NO DR,0
 39575_left,3,DR,1
-18310_right,0,NO DR,0
-15308_left,0,NO DR,0
-23902_right,0,NO DR,0
+15454_left,0,NO DR,0
 40440_right,2,DR,1
-29962_left,0,NO DR,0
-31621_left,1,DR,1
-23290_left,0,NO DR,0
-22849_left,2,DR,1
+15296_right,0,NO DR,0
 19285_left,2,DR,1
-20817_right,0,NO DR,0
-28573_left,0,NO DR,0
-27876_right,0,NO DR,0
+41332_left,0,NO DR,0
 32603_left,3,DR,1
+27842_right,0,NO DR,0
 5267_right,1,DR,1
 21417_right,2,DR,1
-5303_right,0,NO DR,0
-18942_right,0,NO DR,0
+44268_left,0,NO DR,0
 15835_right,1,DR,1
-38232_right,0,NO DR,0
-9848_right,1,DR,1
-10095_right,0,NO DR,0
-24045_right,0,NO DR,0
-27368_left,1,DR,1
-18345_left,0,NO DR,0
-19897_right,2,DR,1
-41979_left,1,DR,1
-6198_left,0,NO DR,0
-25382_right,0,NO DR,0
-34171_right,0,NO DR,0
-33621_right,4,DR,1
+24238_right,0,NO DR,0
+14610_left,0,NO DR,0
+11291_left,2,DR,1
+11619_right,0,NO DR,0
+27635_left,0,NO DR,0
+2479_left,0,NO DR,0
 10579_right,3,DR,1
 7894_right,2,DR,1
-18136_right,0,NO DR,0
-7819_right,0,NO DR,0
-39652_right,2,DR,1
-20878_right,2,DR,1
-2858_left,1,DR,1
+1624_left,0,NO DR,0
+15797_left,1,DR,1
+7842_left,0,NO DR,0
 5581_right,1,DR,1
-23539_right,2,DR,1
-8543_left,0,NO DR,0
-18045_right,0,NO DR,0
-1152_right,2,DR,1
-3695_right,0,NO DR,0
+23300_right,0,NO DR,0
+25949_left,2,DR,1
+8964_right,0,NO DR,0
 7158_left,1,DR,1
 41926_right,3,DR,1
 1374_right,1,DR,1
-40631_left,0,NO DR,0
+17123_right,0,NO DR,0
 44213_left,2,DR,1
-3459_left,1,DR,1
 38891_right,2,DR,1
-307_left,0,NO DR,0
-2413_right,0,NO DR,0
-14257_right,0,NO DR,0
-22799_left,0,NO DR,0
-24871_left,2,DR,1
-13062_right,0,NO DR,0
-39598_left,0,NO DR,0
-8654_left,0,NO DR,0
-8116_left,2,DR,1
-41901_right,0,NO DR,0
-5991_right,0,NO DR,0
-36877_right,0,NO DR,0
-32622_right,0,NO DR,0
+4270_left,0,NO DR,0
+40069_right,3,DR,1
+24903_left,0,NO DR,0
+40947_right,0,NO DR,0
+1427_right,0,NO DR,0
+31397_left,1,DR,1
+2660_left,0,NO DR,0
+23160_right,0,NO DR,0
+16547_left,0,NO DR,0
 19238_left,1,DR,1
-42403_left,0,NO DR,0
-24762_left,0,NO DR,0
-7298_right,3,DR,1
-35035_left,0,NO DR,0
-31014_left,0,NO DR,0
-6599_left,2,DR,1
+5991_right,0,NO DR,0
+22549_right,0,NO DR,0
+20894_right,2,DR,1
+25382_right,0,NO DR,0
 7219_right,1,DR,1
-10279_right,0,NO DR,0
-9813_right,0,NO DR,0
-11607_right,0,NO DR,0
+38431_right,0,NO DR,0
+3464_left,0,NO DR,0
 19920_right,3,DR,1
 23121_right,2,DR,1
-21188_left,2,DR,1
 11649_right,2,DR,1
-4702_left,2,DR,1
 25385_left,3,DR,1
-18709_left,0,NO DR,0
-14094_left,2,DR,1
+8778_right,0,NO DR,0
 22016_right,2,DR,1
-28865_right,0,NO DR,0
-14976_right,4,DR,1
-39009_right,1,DR,1
+18984_right,0,NO DR,0
 5457_left,2,DR,1
-2664_right,0,NO DR,0
-43813_left,2,DR,1
-27363_right,0,NO DR,0
+31985_left,0,NO DR,0
 31816_right,2,DR,1
-36726_left,0,NO DR,0
-9844_left,0,NO DR,0
-27612_right,2,DR,1
-33168_left,2,DR,1
+24045_right,0,NO DR,0
+20340_left,0,NO DR,0
 5441_left,1,DR,1
-36322_right,1,DR,1
 18095_left,2,DR,1
-7057_left,2,DR,1
 33574_right,2,DR,1
 16561_left,2,DR,1
-44331_right,0,NO DR,0
-40069_right,3,DR,1
-32486_right,0,NO DR,0
-13254_left,2,DR,1
-5497_left,1,DR,1
-30550_right,1,DR,1
-21708_left,0,NO DR,0
-21088_right,2,DR,1
-36846_right,2,DR,1
+11992_left,0,NO DR,0
+31337_left,0,NO DR,0
+23456_left,0,NO DR,0
+40410_right,0,NO DR,0
+27219_right,0,NO DR,0
